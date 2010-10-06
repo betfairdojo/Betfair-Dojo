@@ -15,6 +15,7 @@ class BowlingUsingPatternMatching {
 
     def score(bowls:List[Int]) = { // Infer the return type based on the last 'value' returned in this method
 	// Debugging... side effect out a println to display what is going on to the console..
+	println("trying list: " + bowls + "of length: " + bowls.length)
 	var frameScores = scoreFrames(bowls); println("DEBUG: Frames scores: " + frameScores); println("slice: " + frameScores.slice(0,10))
 	// End fo debug
 
@@ -29,8 +30,9 @@ class BowlingUsingPatternMatching {
             10+a+b :: scoreFrames(rest)            // add 10 to it's 2 subsequent values, drop the first element and recurse over the rest of the List
         case a::b::(rest @ c::_) if a+b == 10 =>   // bind first 2 elements in list to labels a and b, and see if they == 10
             10+c :: scoreFrames(rest)              // add 10 to the subsequent value to the spare, and recurse over the remainder of the List
-        case a::b::rest =>                         // otherwise, add the first 2 elements of the List, and recurse over the rest of the List
+        case a::b::(rest @ _) =>                         // otherwise, add the first 2 elements of the List, and recurse over the rest of the List
             a+b :: scoreFrames(rest)
+	case _ => List(0)
     }
 }
 
