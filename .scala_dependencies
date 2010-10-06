@@ -1,0 +1,22 @@
+C:\workspaces\Dojo\Bowling-Prep\bin;C:\eclipse3.5.2\eclipse\configuration\org.eclipse.osgi\bundles\324\1\.cp\lib\scala-library.jar;C:\eclipse3.5.2\eclipse\configuration\org.eclipse.osgi\bundles\324\1\.cp\lib\scala-dbc.jar;C:\eclipse3.5.2\eclipse\configuration\org.eclipse.osgi\bundles\324\1\.cp\lib\scala-swing.jar;C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\ext\dnsns.jar;C:\Program Files\Java\jre6\lib\ext\localedata.jar;C:\Program Files\Java\jre6\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre6\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre6\lib\ext\sunpkcs11.jar;C:\Java\ScalaTest\scalatest-1.2\junit-4.1.jar;C:\Java\ScalaTest\scalatest-1.2\scalatest-1.2.jar;C:\Java\junit-4.8.2.jar
+-------
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala -> C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKataTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKataTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\bowlingKataTest.scala
+C:\workspaces\Dojo\Bowling-Prep\src\GameTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\Game.scala
+C:\workspaces\Dojo\Bowling-Prep\src\GameTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\GameTest.scala
+C:\workspaces\Dojo\Bowling-Prep\src\Bowling.scala -> C:\workspaces\Dojo\Bowling-Prep\src\Bowling.scala
+C:\workspaces\Dojo\Bowling-Prep\src\Game.scala -> C:\workspaces\Dojo\Bowling-Prep\src\Game.scala
+C:\workspaces\Dojo\Bowling-Prep\src\BowlingTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\Bowling.scala
+C:\workspaces\Dojo\Bowling-Prep\src\BowlingTest.scala -> C:\workspaces\Dojo\Bowling-Prep\src\BowlingTest.scala
+-------
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\BowlingUsingExtractors.class
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\BowlingUsingPatternMatching.class
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\BowlingUsingExtractors$isStrike$.class
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKata.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\BowlingUsingExtractors$isSpare$.class
+C:\workspaces\Dojo\Bowling-Prep\src\bowlingKataTest.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\bowlingKataTest.class
+C:\workspaces\Dojo\Bowling-Prep\src\GameTest.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\GameTest.class
+C:\workspaces\Dojo\Bowling-Prep\src\Bowling.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\Bowling.class
+C:\workspaces\Dojo\Bowling-Prep\src\Game.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\Game.class
+C:\workspaces\Dojo\Bowling-Prep\src\Game.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\Game$.class
+C:\workspaces\Dojo\Bowling-Prep\src\BowlingTest.scala -> C:\workspaces\Dojo\Bowling-Prep\bin\BowlingTest.class
